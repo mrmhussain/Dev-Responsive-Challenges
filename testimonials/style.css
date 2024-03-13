@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+body{
+    background-color: #fafaf9;
+}
+.row{
+    height: 100vh;
+}
+.star-img{
+    background-color: #f5c04494;
+    width: 10%;
+    padding: 2%;
+    border-radius: 50%;
+}
+.star-img img{
+    width: 100%;
+}
+ul{
+    list-style-image: url('./images/Done_ring_round_fill.svg');
+}
+.li-color{
+    color: rgba(0, 0, 0, 0.712);
+    font-family: "Sora", sans-serif;
+    font-size: 0.875rem;
+}
+.card{
+    border: 1px solid white;
+    border-radius: 12px 12px 12px 12px;
+    background: white;
+    box-shadow:  5px 5px 8px #ecebeb;
+}
