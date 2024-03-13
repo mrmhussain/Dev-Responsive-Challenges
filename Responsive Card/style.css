@@ -1,0 +1,23 @@
+.bg-color{
+    background-color: #fafaf9;
+}
+.responsive-card{
+    height: 100vh;
+}
+.card{
+box-shadow:  5px 5px 10px #d6d6d6,
+             -5px -5px 10px #ffffff;
+}
+.card-body{
+    text-align: left !important;
+}
+.design-text{
+    background-color: #e6d6fc;
+    width: 20%;
+    text-align: center;
+    color: #b06aff;
+    font-size: small;
+}
+.annie{
+    color: #6c727f;
+}
